@@ -1,5 +1,5 @@
 # JK Token: A Memecoin Built on the BNB Chain
-**Whitepaper Version:** 1.0  
+**Whitepaper Version:** 1.1  
 **Date:** December 10th, 2025  
 **Location:** New York
 
@@ -12,7 +12,9 @@ JK Token is a memecoin built on the BNB Chain and named after John Kwok, the fou
 - **Name:** JK Token  
 - **Symbol:** JKT  
 - **Blockchain:** BNB Chain  
-- **Standard:** BEP-20  
+- **Standard:** BEP-20
+- **Contract Address:** 0xc7dbaeabf773a9bfd20ea085061d52cf4faa4444
+- **Total Supply:** 1,000,000,000
 
 JK Token is a standard BEP-20 memecoin deployed on the BNB Chain. Its characteristics and operational rules are entirely defined by the on-chain smart contract and recorded transparently on the blockchain. The structure and attributes of the token can be verified through publicly accessible on-chain data.
 
